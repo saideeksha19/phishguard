@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard — Phishing Awareness & Security Training",
+  "description": "A cybersecurity training dashboard featuring Phishing Academy, Email Analyzer, Security Quiz, Real-World Cases, and actionable Security Tips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
